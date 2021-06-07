@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: darkgreen;
+    border-style: solid;
+    border-color: darkred;
+}
+h1{
+    color: darkorange;
+}
+h2{
+    color: cyan;
+}
+h6{
+    font-weight: bold;
+    color: lime;
+    text-align: justify;
+}
